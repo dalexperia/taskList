@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background: coral;
+}
+
+#content{
+    margin: 100px auto;
+    width: 400px;
+    background: white;
+    border-radius: 15px;
+    padding: 10px 10px;
+}
+
+#input-tarefas{
+    display: block;
+    margin: 0 auto;
+    padding:20px 0 10px 0;
+    width: 300px;
+}
+
+#btn-inserir{
+    font-size: 12px;
+    padding:3px 10px;
+    border:1px solid #cccccc;
+    border-radius: 5px;
+}
+
+#tarefas{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
+
+#lista-tarefa{
+    text-align: left;
+    padding-left: 20px;
+}
+
+#lista-tarefa li {
+    padding: 5px 5px;
+    list-style: none;
+}
